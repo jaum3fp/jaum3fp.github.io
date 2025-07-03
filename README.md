@@ -1,42 +1,37 @@
+
+[![CV](https://img.shields.io/badge/PDF-CV-red?style=for-the-badge&logo=read.cv)](assets/downloads/cv.pdf) [![Github](https://img.shields.io/badge/GitHub-jaum3fp-black?style=for-the-badge&logo=github)](https://github.com/jaum3fp) [![Outlook](https://img.shields.io/badge/Email-j.ferraperez@outlook.es-blue?style=for-the-badge&logo=maildotru)](mailto:j.ferraperez@outlook.es)
+
 ## Me presento
 
 Desarrollador de aplicaciones multiplataforma y web. 
 Intentar diseñar arquitecturas lo más escalables posible en mis aplicaciones es mi motivación.
-Los lenguajes con los que más he desarrollado han sido **Java**, **Kotlin**, **JavaScript** y **Python**, y actualmente estoy aprendiendo **Go**.
+Los lenguajes con los que más he desarrollado han sido **Java**, **Kotlin**, **Python**, **JavaScript** y **PHP**, y actualmente estoy aprendiendo **Go**.
 Tengo experiencia con el framework **Nuxt** y **WordPress**.
 
 En mi tiempo libre me gusta jugar videojuegos y probar distintas tecnologías relacionadas con el desarrollo de software.
 
 ## Proyectos realizados
 
-Actualmente tengo dos repositorios públicos en [Github](https://github.com/jaum3fp). Uno es *Polideportivo*: un proyecto de **JavaFX** que se conecta con **Mysql** que hicimos por el final del primer curso y que básicamente sirve para administrar un polideportivo ficticio. El segundo es *BitacoraForum*: mi proyecto de final de curso del grado superior de web, que consiste en un foro donde discutir sobre viajes. He usado **Nuxt**, **Fiber**, **Mysql** y **Docker**. Ambos proyectos son académicos.
+Tengo publicados varios repositorios en [Github](https://github.com/jaum3fp) con proyectos tanto académicos como personales, donde se puede ver el desarrollo de aplicaciones cliente de Android, JavaFX y Nuxt interactuar con *backends* escritos en Java, Django y Go Fiber, o *BaaS* como Firebase.
 
-Luego tengo múltiples proyectos sencillos que me han permitido aprender, aunque los suelo dejar inacabados porque son más para probar cosas.
+Luego a parte suelo hacer otros proyectos para practicar otros frameworks. Actualmente tengo especial interés en Kotlin Multiplatform.
 
 ## Tecnologías usadas
 
 | Utilizado bastante | Para aprendizaje     |
 | :----------------- | :------------------- |
-| JavaFX             | Wails                |
-| Django             | Kotlin Multiplatform |
-| Nuxt               | Laravel              |
-| Go Fiber           | Angular              |
+| JavaFX             | Kotlin Multiplatform |
+| Django             | Laravel              |
+| Nuxt               | Angular              |
+| Go Fiber           | React                |
 | PyQt6              | Flet                 |
-| Java Swing         | LWJGL                |
-| Android SDK        | libGDX               |
-|                    | React                |
-|                    | Python CLI Kit       |
-|                    | Astro js             |
+| Android            | Python CLI Kit       |
+|                    | Astro                |
 
 ## Entornos de trabajo
 
 - **OS**: Fedora
-- **IDE**: IntelliJ, PyCharm, VSCodium, Zed
-- **DB**: MySQL Workbench, HeidiSQL, phpMyAdmin
-- **DevOps**: Docker, Poetry, nix-shell
-
-## Enlaces
-
-[![Static Badge](https://img.shields.io/badge/Email-j.ferraperez@outlook.es-blue?logo=maildotru)](mailto:j.ferraperez@outlook.es)
-
-[![Static Badge](https://img.shields.io/badge/GitHub-jaum3fp-black?logo=github)](https://github.com/jaum3fp)
+- **IDE**: IntelliJ, PyCharm, VSCode Android Studio
+- **DB GUIs**: MySQL Workbench, HeidiSQL, phpMyAdmin
+- **Virtualización**: Docker, VirtualBox
+- **Env tools**: Maven, Gradle, npm, pip, poetry, bun

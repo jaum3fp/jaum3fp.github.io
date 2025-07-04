@@ -12,7 +12,7 @@ En mi tiempo libre me gusta jugar videojuegos y probar distintas tecnologías re
 
 ## Proyectos realizados
 
-Tengo publicados varios repositorios en [Github](https://github.com/jaum3fp) con proyectos tanto académicos como personales, donde se puede ver el desarrollo de aplicaciones cliente de Android, JavaFX y Nuxt interactuar con *backends* escritos en Java, Django y Go Fiber, o *BaaS* como Firebase.
+Tengo publicados varios repositorios en [Github](https://github.com/jaum3fp) con proyectos tanto académicos como personales, donde se puede ver el desarrollo de aplicaciones cliente hechas con Android, JavaFX y Nuxt interactuando con *backends* programados con Java, Django y Go Fiber, o con *BaaS* como Firebase.
 
 Luego a parte suelo hacer otros proyectos para practicar otros frameworks. Actualmente tengo especial interés en Kotlin Multiplatform.
 

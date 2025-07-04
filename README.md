@@ -3,35 +3,30 @@
 
 ## Me presento
 
-Desarrollador de aplicaciones multiplataforma y web. 
-Intentar diseñar arquitecturas lo más escalables posible en mis aplicaciones es mi motivación.
-Los lenguajes con los que más he desarrollado han sido **Java**, **Kotlin**, **Python**, **JavaScript** y **PHP**, y actualmente estoy aprendiendo **Go**.
-Tengo experiencia con el framework **Nuxt** y **WordPress**.
+Soy desarrollador de aplicaciones multiplataforma y web.
+He programado principalmente con **Java**, **Kotlin**, **Python**, **JavaScript** y **PHP**. Actualmente, estoy profundizando mis habilidades en backend web aprendiendo **Go**.
 
-En mi tiempo libre me gusta jugar videojuegos y probar distintas tecnologías relacionadas con el desarrollo de software.
+He trabajado creando componentes web usando el framework **Nuxt** con **Typescript** y gestionando distintas webs con **WordPress**.
+
+En mi tiempo libre me gusta jugar videojuegos y probar distintas tecnologías relacionadas con el desarrollo de software. Últimamente tengo especial interés en aprender un framework multiplataforma como Kotlin Multiplatform.
 
 ## Proyectos realizados
 
-Tengo publicados varios repositorios en [Github](https://github.com/jaum3fp) con proyectos tanto académicos como personales, donde se puede ver el desarrollo de aplicaciones cliente hechas con Android, JavaFX y Nuxt interactuando con *backends* programados con Java, Django y Go Fiber, o con *BaaS* como Firebase.
-
-Luego a parte suelo hacer otros proyectos para practicar otros frameworks. Actualmente tengo especial interés en Kotlin Multiplatform.
+Puedes encontrar varios de mis proyectos en mi perfil de [Github](https://github.com/jaum3fp), donde se puede ver el desarrollo de aplicaciones cliente hechas con Android, JavaFX y Nuxt interactuando con *backends* programados con Java, Django y Go Fiber, o con *BaaS* como Firebase.
 
 ## Tecnologías usadas
 
-| Utilizado bastante | Para aprendizaje     |
-| :----------------- | :------------------- |
-| JavaFX             | Kotlin Multiplatform |
-| Django             | Laravel              |
-| Nuxt               | Angular              |
-| Go Fiber           | React                |
-| PyQt6              | Flet                 |
-| Android            | Python CLI Kit       |
-|                    | Astro                |
+| Web backend        | Web frontend         | Escritorio         | Móviles              |
+| :----------------- | :------------------- | :----------------- | :------------------- |
+| Django             | Nuxt                 | JavaFX             | Android              |
+| Go Fiber           | Vue                  | PyQt6              |
+| Laravel            | React                |
+|                    | Angular              |
 
 ## Entornos de trabajo
 
 - **OS**: Fedora
-- **IDE**: IntelliJ, PyCharm, VSCode Android Studio
+- **IDE**: IntelliJ, PyCharm, VSCode, Android Studio
 - **DB GUIs**: MySQL Workbench, HeidiSQL, phpMyAdmin
 - **Virtualización**: Docker, VirtualBox
 - **Env tools**: Maven, Gradle, npm, pip, poetry, bun

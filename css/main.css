@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900');
+
+:root {
+    --color-primary: rgb(33 106 77);
+    --color-on-primary: rgb(255 255 255);
+    --color-primary-container: rgb(169 242 204);
+    --color-on-primary-container: rgb(0 82 55);
+    --color-background: rgb(245 251 245);
+    --color-on-background: rgb(23 29 25);
+    --gradient-primary: linear-gradient(to top, var(--color-primary-container), rgb(88, 231, 174));
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-primary: rgb(142 213 177);
+        --color-on-primary: rgb(0 56 37);
+        --color-primary-container: rgb(0 82 55);
+        --color-on-primary-container: rgb(169 242 204);
+        --color-background: rgb(15 21 17);
+        --color-on-background: rgb(222 228 222);
+        --gradient-primary: linear-gradient(to top, var(--color-primary-container), rgb(38, 134, 96));
+    }
+}
+
+body, html {
+    font-family: "Inter", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-background);
+}
+
+.inner {
+    max-width: 34%;
+    margin: 0 auto;
+}
+
+.icon-link {
+    text-decoration: none; 
+    color: var(--color-on-background); 
+    margin-right: 8px;
+}
+
+.gradient-primary-block {
+    background: var(--gradient-primary);
+    color: var(--color-primary);
+}
+
+.primary-block {
+    background-color: var(--color-primary-container);
+    color: var(--color-primary);
+}
+
+.primary-block a {
+    text-decoration: underline;
+    color: var(--color-secondary);
+}
+
+/* Markdown styles */
+.md-styles {
+    color: var(--color-on-background);
+}
+
+.md-styles h2 {
+    border-bottom: 1px dotted var(--color-on-background);
+    padding-bottom: 8px;
+    font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+}
+
+.md-styles ul {
+    margin-left: -20px;
+}
+
+.md-styles table {
+    border-collapse: collapse;
+    color: var(--color-on-primary-container);
+}
+
+.md-styles table td, .md-styles table th {
+    padding: 8px;
+    border: 1px solid var(--color-on-background);
+}
+
+.md-styles table th {
+    background-color: var(--color-primary-container);
+}

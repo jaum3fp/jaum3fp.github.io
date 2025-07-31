@@ -29,6 +29,13 @@ jobs:
     - name: Generate static site
       run: bun x nuxi generate
 
+    - name: Check files
+      run: |
+        echo "WORKSPACE root:"
+        ls -R .
+        echo "dist folder:"
+        ls -R ./dist
+
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
       with:

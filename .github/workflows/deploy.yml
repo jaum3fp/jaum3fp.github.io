@@ -29,6 +29,9 @@ jobs:
     - name: Generate static site
       run: bun x nuxi generate
 
+    - name: Check better-sqlite3
+      run: cat bun.lock | grep better-sqlite3
+
     - name: Check files
       run: |
         echo "WORKSPACE root:"

@@ -1,5 +1,9 @@
 name: Deploy Static Nuxt Page 
 
+permissions:
+  contents: write
+  pages: write
+
 on:
   push:
     branches:
@@ -11,7 +15,7 @@ jobs:
 
     steps:
     - name: Checkout repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       
     - name: Install bun
       run: curl -fsSL https://bun.sh/install | bash

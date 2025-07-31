@@ -32,9 +32,9 @@ jobs:
     - name: Check files
       run: |
         echo "WORKSPACE root:"
-        ls -R .
+        ls -l .
         echo "dist folder:"
-        ls -R ./dist
+        ls -l ./dist
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4

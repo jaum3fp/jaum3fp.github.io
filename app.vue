@@ -1,20 +1,6 @@
-<script setup lang="ts">
-const data = await queryCollection('content').first()
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <Hero />
-  <ContentRenderer class="content-container md-styles inner" v-if="data" :value="data" />
-  <Footer />
+<NuxtPage />
 </template>
-
-<style scoped>
-
-.content-container {
-  background-color: var(--color-background);
-  position: relative;
-  display: block;
-  padding: 20px 10px;
-}
-
-</style>
+  

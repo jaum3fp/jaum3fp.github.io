@@ -1,7 +1,7 @@
 ## Me presento
 
 Hola, soy desarrollador de aplicaciones multiplataforma y web.
-He programado principalmente con **Java**, **Kotlin**, **Python**, **JavaScript**, **PHP** y **Go**.
+Mis lenguajes más usados son **Java**, **Kotlin**, **Python**, **JavaScript**, **PHP** y **Go**.
 
 He trabajado creando componentes web con **Nuxt** y **Typescript**, y gestionando sitios web con **WordPress** y **Drupal**.
 
@@ -23,7 +23,7 @@ En mi tiempo libre me gusta jugar videojuegos y explorar nuevas tecnologías rel
 
 ## Currículum Vitae
 
-Última versión de mi currículum <a href="downloads/cv.pdf" target="_blank" rel="noopener noreferrer">aquí</a>.
+Última versión de mi currículum <a href="downloads/cv/JFP_CV_24072025.pdf" target="_blank" rel="noopener noreferrer">aquí</a>.
 
 ## Contacto
 

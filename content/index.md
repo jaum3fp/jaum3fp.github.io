@@ -23,7 +23,7 @@ En mi tiempo libre me gusta jugar videojuegos y explorar nuevas tecnologías rel
 
 ## Currículum Vitae
 
-Última versión de mi currículum <a href="downloads/cv/JFP_CV_24072025.pdf" target="_blank" rel="noopener noreferrer">aquí</a>.
+Última versión de mi currículum <a href="downloads/cv/JFP_CV_04082025.pdf" target="_blank" rel="noopener noreferrer">aquí</a>.
 
 ## Contacto
 
